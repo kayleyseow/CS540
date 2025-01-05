@@ -1,4 +1,4 @@
 # CS540
-Introduction to Artificial Intelligence
+CS540: Introduction to Artificial Intelligence at UW-Madison
 
 
